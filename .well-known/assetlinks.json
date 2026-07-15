@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.blurt.blurt",
+      "sha256_cert_fingerprints": [
+        "A0:7D:39:DE:28:20:08:33:04:20:A3:F1:8C:72:B5:5F:BD:73:4D:9C:D3:CB:9B:A8:B2:2B:E7:C3:A0:7C:1E:98"
+      ]
+    }
+  }
+]
